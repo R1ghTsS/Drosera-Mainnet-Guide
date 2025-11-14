@@ -5,7 +5,7 @@
 * Linux server (e.g. Ubuntu 22.04)
 * Open ports: `31313/tcp` (P2P) and `31314/tcp` (HTTP)
 * One **Ethereum RPC URL** (mainnet), e.g. `https://…`
-* One **operator wallet** with a little ETH for gas (fresh EOA recommended)
+* One **operator wallet** with a little ETH (at least $10) for gas (fresh EOA recommended)
 
 
 ---
